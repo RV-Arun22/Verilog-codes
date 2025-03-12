@@ -4,3 +4,4 @@ Verilog synthesis and simulation files
 2. Binary adders:
    i. 32-bit signed carry select adder
    ii. 64-bit signed hierarchical carry look ahead adder (CLA)
+3. CORDIC Algorithm for sine & cosine computation
